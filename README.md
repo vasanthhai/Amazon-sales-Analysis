@@ -55,5 +55,4 @@ It provides insights into **Year-to-Date (YTD) sales, product category performan
 
 ---
 
-## 📂 Project Structure
 
